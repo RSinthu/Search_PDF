@@ -1,2 +1,5 @@
 LaMini-T5-738M
 offload_weights
+db/
+__pycache__/
+docs/**/*.pdf
